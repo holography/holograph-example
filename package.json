@@ -8,7 +8,7 @@
     "node-sass": "^3.7.0",
     "sass-loader": "^3.2.0",
     "style-loader": "^0.13.1",
-    "holograph-webpack-plugin": "git+https://github.com/holography/holograph-webpack-plugin.git",
+    "holograph-webpack-plugin": "git+https://github.com/holography/holograph-webpack-plugin.git"
   },
   "author": "Ben Longden <ben@nocarrier.co.uk>",
   "repository": "https://github.com/holography/holograph-example",
