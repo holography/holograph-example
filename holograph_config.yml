@@ -16,10 +16,10 @@ documentation_assets: ./node_modules/holograph/assets
 # folder. Typically this will include the css that you are trying to
 # document. May also include additional folders as needed.
 dependencies:
-  - build
+  - public
 
 css_include:
-  - build/atoms.css
+  - public/atoms.css
 
 # Mark which category should be the index page
 # Alternatively, you may have an index.md in the documentation assets
