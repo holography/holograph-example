@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "css-loader": "^0.23.1",
+    "extract-loader": "0.0.2",
+    "file-loader": "^0.8.5",
+    "holography": "0.0.5",
+    "holography-webpack-plugin": "git+https://github.com/holography/holography-webpack-plugin.git",
+    "html-loader": "^0.4.3",
+    "node-sass": "^3.7.0",
+    "sass-loader": "^3.2.0",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.1"
+  },
+  "author": "Ben Longden <ben@nocarrier.co.uk>",
+  "repository": "https://github.com/holography/holography-example",
+  "license": "MIT"
+}
