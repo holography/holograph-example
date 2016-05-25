@@ -1,14 +1,22 @@
 # holograph-example
 
-This provides a working example of holograph
+A working example of Holograph using webpack.
 
-First install all the dependencies
+## How to install and build
 
+First, install all the dependencies:
 ```
 npm install
 ```
 
-Build with webpack
+Then build with webpack:
 ```
 node_modules/.bin/webpack
+```
+
+## Viewing the style guide
+
+In your browser, navigate to:
+```
+<your project directory>/holograph-example/holograph/index.html
 ```
