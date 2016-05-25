@@ -18,5 +18,5 @@ node_modules/.bin/webpack
 
 In your browser, navigate to:
 ```
-<your project directory>/holograph-example/holograph/index.html
+<your project directory>/holograph/index.html
 ```
