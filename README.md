@@ -1,6 +1,6 @@
-# holography-example
+# holograph-example
 
-This provides a working example of holography
+This provides a working example of holograph
 
 First install all the dependencies
 

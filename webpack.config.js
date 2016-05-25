@@ -1,4 +1,4 @@
-var HolographyPlugin = require ('holography-webpack-plugin');
+var HolographPlugin = require ('holograph-webpack-plugin');
 var path = require ('path');
 var indexHtml = path.join(__dirname, "src", "index.html");
 
@@ -21,6 +21,6 @@ module.exports = {
         ]
     },
     plugins: [
-        new HolographyPlugin()
+        new HolographPlugin()
     ]
 };
